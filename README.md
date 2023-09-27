@@ -1,6 +1,8 @@
-# Guide d'utilisation de Git pour [Nom du Projet]
+# Guide d'utilisation de Git pour le projet AP
 
-Bienvenue dans le projet [Nom du Projet]! Ce guide vous aidera à démarrer avec Git et à collaborer efficacement sur notre projet.
+Bienvenue dans le projet AP! Ce guide vous aidera à démarrer avec Git et à collaborer efficacement sur notre projet.
+
+Liens du projet:https://github.com/HamtaroDeLaForet/AP2023-2024.git
 
 ## Table des matières
 
